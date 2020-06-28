@@ -1,1 +1,1 @@
-module.exports = ['initiator', 'target', 'initiationtimestamp', 'acceptancetimestamp', 'bilateral'];
+module.exports = ['initiator', 'target', 'initiationtimestamp', 'initiationreference', 'acceptancetimestamp', 'acceptancereference', 'bilateral'];
